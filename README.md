@@ -31,10 +31,9 @@ And when I'm not teaching, I'm paragliding, training my two Aussies, or creating
 
 > // 📟  OMG a pager emoji!? I HAVE to use this to mark my 'contact me' section!!!
 <p>
-  Want to connect? Email me at 
-    <a href="mailto:a.darbyn@gmail.com?subject=GitHub Says Howdy">
-  a.darbyn@gmail.com
-    </a>
+  Want to connect? 
+  <a href="mailto:a.darbyn@gmail.com?subject=GitHub Says Howdy!"> Email me and say "Howdy!"
+  </a>
   .
 </p>
 <br>
